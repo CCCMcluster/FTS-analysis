@@ -1,0 +1,18 @@
+name: cluster-fts 
+channels:
+  - conda-forge
+  - pyviz
+dependencies:
+  - jupyterlab=3
+  - requests
+  - pandas
+  - hvplot
+  - holoviews
+  - seaborn
+  - geoviews
+  - jupytext
+  - openpyxl
+  - selenium
+  - firefox
+  - geckodriver
+prefix: /Users/brian/miniconda3/envs/cluster-fts
